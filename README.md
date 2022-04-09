@@ -1,1 +1,1 @@
-# demyCourse.SalesWebMVC
+# udemyCourse.SalesWebMVC
